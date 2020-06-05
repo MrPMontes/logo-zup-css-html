@@ -32,9 +32,9 @@ body {
     height: 60px;
     background:  #003155;
     position: relative;
-    left: 2px;
+    left: 4px;
     top: 12px;
-    transform: skewX(-45deg);
+    transform: skewX(-47deg);
     background-image: linear-gradient(to left, #00132F, #003155);
 }
 

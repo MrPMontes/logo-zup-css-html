@@ -78,7 +78,7 @@ body {
     height: 60px;
     background: #003155;
     position: relative;
-    left: 5px;
+    left: 7px;
     top: 11.5px;
     transform: skewX(-47deg);
     background-image: linear-gradient(to left, #00132f, #003155);
